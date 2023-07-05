@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nertwy
 - 👀 I’m interested in JavaScript\Typescript World
 - 🌱 I’m currently learning  React, NextJs, ReactNative
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me deniskabos@gmail.com
 
 <!---
